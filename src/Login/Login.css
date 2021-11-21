@@ -1,0 +1,66 @@
+.form{
+    margin: 0 auto;
+    margin-top: -300px;
+    background-color: rgb(161, 161, 161);
+    width: 600px;
+    height: 400px;
+    border-radius: 2%;
+    padding: 45px;
+    display: block;
+}
+
+body{
+    background-color: rgb(155, 121, 250);
+}
+
+img{
+
+    width: 250px;
+    height: 200px;
+    display: flex-box;
+    margin-top: 200px;
+    margin-right: 400px;
+   
+}
+
+.usuario, .senha, button{
+    padding-top: 20px;
+    margin-left: 200px;
+}
+
+div input{
+     padding: 10px;
+     width: 230px;
+     height: 20px;
+     border-radius: 10px;
+     border: none;
+     background-color: lightgray;
+     color: rgb(71, 70, 70) !important;
+     font-weight: bold;
+}
+
+.senha{
+    padding: 15px;
+}
+
+
+.botao{
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+    border-radius: 3%;
+    background-color: rgb(204, 157, 70);
+    border: 1px solid rgb(202, 164, 94)
+}
+
+.esqueceu{
+    font-size: 0.8em;
+    color: rgb(3, 3, 192);
+}
+
+#props{
+    font-size: 1em;
+    color: rgb(172, 81, 175);
+}
